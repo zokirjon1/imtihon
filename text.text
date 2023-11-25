@@ -1,0 +1,11 @@
+Alembic, Python dasturlash tilida yozilgan bir ORM (Object-Relational Mapping) migratsiya freymvorkidir. U, SQLAlchemy bilan birgalikda ishlatiladi va veritabanlarining schema (skema) o'zgarishlarini boshqarishga yordam beradi.
+
+Alembicning asosiy vazifalari quyidagilardir:
+
+Migratsiya skriptlarini yaratish: Alembic, veritabanining skemasidagi o'zgarishlarni avtomatik ravishda kuzatadi va migratsiya skriptlarini yaratadi. Bu skriptlar, veritabanidagi o'zgarishlarni qo'llab-quvvatlash uchun SQL-algoritmlarini o'z ichiga oladi.
+
+Migratsiya jarayonini boshqarish: Alembic, veritabanidagi migratsiya jarayonini boshqarishga imkon beradi. Bu jarayon orqali siz veritabanidagi skema o'zgarishlarini yaratishingiz, o'zgartirishingiz yoki o'chirishingiz mumkin.
+
+Migratsiya holatini tekshirish: Alembic, veritabanidagi migratsiya holatini tekshirishga imkon beradi. Bu, sizga veritabanidagi skema o'zgarishlari va migratsiya holatini nazorat qilish imkonini beradi.
+
+Alembic, veritabanidagi skema o'zgarishlarini boshqarishda yordamchi bo'ladi va veritabanining tarixini saqlashga imkon beradi. Bu, loyihalarni rivojlantirish va veritabanidagi o'zgarishlarni to'g'ri va samarali boshqarish uchun muhim bir vosita sifatida ishlatiladi.
